@@ -7,7 +7,7 @@ using System.Windows.Forms;
 namespace MyApplication
 {
 	internal static class Program
-	{
+	{ 
 		static Program()
 		{
 		}
